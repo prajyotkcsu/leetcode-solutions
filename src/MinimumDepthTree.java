@@ -13,32 +13,33 @@
  *     }
  * }
  */
-
- //DFS recursive approach
+//This problem essentially asks you distance between root node and first leaf node that has got zero children, meaning node.left and node.right are null----return depth;
 class Solution {
-
-public int minDepth(TreeNode root) {
-    if(root==null){
-return 0;
+    public int minDepth(TreeNode root) {
+        if(root==null)
+            return 0;
+        Queue<TreeNode> queue= new LinkedList<>();
+        int level=1;
+        queue.offer(root);
+        while(!queue.isEmpty())
+        {
+            int size=queue.size(); //this way performing actions on each child of a node, if node doesn't have any child terminate it with previous return
+            for(int i=1;i<=size;i++)
+            {
+                TreeNode curr=queue.poll();
+                if(curr.left==null && curr.right==null) //leaf node found
+                    return level;
+                if(curr.left!=null)
+                {
+                    queue.offer(curr.left);
+                }
+                if(curr.right!=null)
+                {
+                    queue.offer(curr.right);
+                }
+            }
+            level++; //leaf node not found
+        }
+      return level;  
     }
-    Queue<TreeNode> q=new LinkedList<>();
-    q.add(root);
-    int depth=1;
-    int minDepth=Integer.MAX_VALUE;
-    while(!q.isEmpty()){
-        TreeNode curr=q.poll();
-        if(curr.left==null && curr.right==null){
-            minDepth=Math.min(minDepth,depth);
-        }
-        if(curr.left!=null){
-            q.add(curr.left);
-        }
-        if(curr.right!=null){
-            q.add(curr.right);
-        }
-        depth++;
-    }
-
-return minDepth;}
-
 }
