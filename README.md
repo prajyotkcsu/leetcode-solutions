@@ -1,5 +1,5 @@
 ### 14/2
-21-merge-two-sorted-lists
-19_remove-nth-node-from-end-of-list
-1-two-sum.java
-20-valid-parentheses.java
+21-merge-two-sorted-lists <br>
+19_remove-nth-node-from-end-of-list <br>
+1-two-sum <br>
+20-valid-parentheses <br>
