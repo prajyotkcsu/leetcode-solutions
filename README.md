@@ -9,6 +9,7 @@
 56-merge-intervals.java
 ### 17/2
 3005-count-elements-with-maximum-frequency <br>
+169-majority-element <br>
 133-clone-graph <br>
 207-course-schedule <br>
 721-accounts-merge <br>
