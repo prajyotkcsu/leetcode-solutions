@@ -13,4 +13,10 @@
 133-clone-graph <br>
 207-course-schedule <br>
 721-accounts-merge <br>
-
+### 18/2
+https://leetcode.com/problems/permutations/ <br>
+https://leetcode.com/problems/string-to-integer-atoi/ <br>
+https://leetcode.com/problems/longest-palindromic-substring/ <br>
+https://leetcode.com/problems/next-permutation/description/ <br>
+https://leetcode.com/problems/combination-sum/description/ <br>
+https://leetcode.com/problems/combination-sum-iii/description/ <br>
