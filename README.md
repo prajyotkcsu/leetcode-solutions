@@ -21,3 +21,6 @@ https://leetcode.com/problems/longest-palindromic-substring/ <br>
 https://leetcode.com/problems/next-permutation/description/ <br>
 https://leetcode.com/problems/combination-sum/description/ <br>
 https://leetcode.com/problems/combination-sum-iii/description/ <br>
+
+## 19/2
+https://leetcode.com/problems/count-good-meals/description/
