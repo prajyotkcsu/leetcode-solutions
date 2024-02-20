@@ -24,3 +24,25 @@ https://leetcode.com/problems/combination-sum-iii/description/ <br>
 
 ## 19/2
 https://leetcode.com/problems/count-good-meals/description/
+
+## 20/2
+Two Sum
+Reverse Integer
+Palindrome Number
+Merge Two Sorted Lists
+Valid Parentheses
+Roman to Integer
+Longest Common Prefix
+Merge Intervals
+Container With Most Water
+Subarray Sum Equals K
+Valid Sudoku
+Rotate Image
+Group Anagrams
+String to Integer (atoi)
+Median of Two Sorted Arrays
+Valid Parenthesis String
+First Missing Positive
+Product of Array Except Self
+Count and Say
+Longest Palindromic Substring
