@@ -51,3 +51,6 @@ Longest Palindromic Substring
 
 https://leetcode.com/problems/reverse-string/description/ <br>
 https://leetcode.com/problems/online-stock-span/ <br>
+
+## 21/2
+https://leetcode.com/problems/daily-temperatures/ <br>
