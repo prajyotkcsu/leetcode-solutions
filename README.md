@@ -50,3 +50,4 @@ Count and Say
 Longest Palindromic Substring
 
 https://leetcode.com/problems/reverse-string/description/ <br>
+https://leetcode.com/problems/online-stock-span/ <br>
