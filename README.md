@@ -1,3 +1,5 @@
+![image](https://github.com/prajyotkcsu/leetcode-solutions/assets/154280801/83b0771b-f2cd-4a0f-98d9-8b71ec8b7f00)
+
 ### 14/2
 21-merge-two-sorted-lists <br>
 19-remove-nth-node-from-end-of-list <br>
