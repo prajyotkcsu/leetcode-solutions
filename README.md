@@ -59,3 +59,6 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ <br>
 ## 22/2
 https://leetcode.com/problems/first-bad-version/description/ <br>
 https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/ <br>
+
+# 3/3
+https://leetcode.com/problems/peak-index-in-a-mountain-array/description/ <br>
