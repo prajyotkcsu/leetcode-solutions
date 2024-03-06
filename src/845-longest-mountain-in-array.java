@@ -24,6 +24,7 @@ class Solution {
       }
        boolean isValley(int[] arr, int v){
           if(arr[v]<arr[v-1] && arr[v]<arr[v+1])return true;
+          else if(arr[v]==arr[v-1] || arr[v]==arr[v+1])return true;
           return false;
       }
 }
