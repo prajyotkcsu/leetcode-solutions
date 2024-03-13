@@ -71,3 +71,6 @@ https://leetcode.com/problems/clone-graph/
 
 ## 3/11
 https://leetcode.com/problems/validate-binary-search-tree/
+
+## 3/12
+https://leetcode.com/problems/binary-tree-inorder-traversal/
