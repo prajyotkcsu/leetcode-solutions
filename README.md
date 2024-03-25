@@ -77,3 +77,6 @@ https://leetcode.com/problems/binary-tree-inorder-traversal/
 
 ## 3/19
 https://leetcode.com/problems/remove-duplicate-letters/
+
+## 3/24
+https://leetcode.com/problems/maximum-depth-of-n-ary-tree/
